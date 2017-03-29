@@ -1,0 +1,22 @@
+{
+  "name": "schmanslate",
+  "version": "1.0.0",
+  "description": "Translate a phrase to GO pronunciation.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jxom/schmanslate.git"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "author": "Jake Moxey",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/jxom/schmanslate/issues"
+  },
+  "homepage": "https://github.com/jxom/schmanslate#readme"
+}
